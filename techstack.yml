@@ -1,0 +1,367 @@
+repo_name: 2lambda123/Flight-Tracker-StreamDeck
+report_id: 0b99cddc44ba82c4e59d6061279e0a7c
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T06:53:34+00:00'
+requested_by: snorkell-ai[bot]
+provider: github
+branch: main
+detected_tools_count: 27
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.SimConnectFSX/FlightStreamDeck.SimConnectFSX.csproj
+  detection_source: FlightStreamDeck.SimConnectFSX/FlightStreamDeck.SimConnectFSX.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2020-03-20 11:50:06.000000000 Z
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '7.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  detection_source: FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2021-11-15 01:39:53.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: '7.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  detection_source: FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2021-11-15 01:39:53.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/.github/workflows/snorkell-auto-documentation.yml
+  detection_source: ".github/workflows/snorkell-auto-documentation.yml"
+  last_updated_by: snorkell-ai[bot]
+  last_updated_on: 2023-12-20 11:15:19.000000000 Z
+- name: Moq
+  description: The most popular and friendly mocking framework for .NET
+  website_url: https://github.com/Moq/moq4
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1628/1434934.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.LogicsTests/FlightStreamDeck.LogicsTests.csproj
+  detection_source: FlightStreamDeck.LogicsTests/FlightStreamDeck.LogicsTests.csproj
+  last_updated_by: Pieter van 't Hof
+  last_updated_on: 2020-03-28 12:31:55.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.SimConnectFSX/FlightStreamDeck.SimConnectFSX.csproj
+  detection_source: FlightStreamDeck.SimConnectFSX/FlightStreamDeck.SimConnectFSX.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2020-03-20 11:50:06.000000000 Z
+- name: Serilog
+  description: A portable and structured logging framework to record diagnostic logs
+  website_url: http://serilog.net/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/4283/5691010.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  detection_source: FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2022-12-08 08:31:17.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.sln
+  detection_source: FlightStreamDeck.sln
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2022-12-12 10:09:22.000000000 Z
+- name: MSTest.TestFramework
+  description: This is MSTest V2, the evolution of Microsoft's Test Framework
+  package_url: https://www.nuget.org/MSTest.TestFramework
+  version: 3.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13142/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.LogicsTests/FlightStreamDeck.LogicsTests.csproj
+  detection_source: FlightStreamDeck.LogicsTests/FlightStreamDeck.LogicsTests.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2023-03-22 20:53:59.000000000 Z
+- name: Microsoft.AppCenter.Analytics
+  description: This package contains functionalities to collect session
+  package_url: https://www.nuget.org/Microsoft.AppCenter.Analytics
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13882/default_5b0d89659f8ef29e072f4f056edfe6596b2feb77.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  detection_source: FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2022-12-24 01:07:15.000000000 Z
+- name: Microsoft.AppCenter.Crashes
+  description: This package contains functionalities to collect crash reports for
+    your application
+  package_url: https://www.nuget.org/Microsoft.AppCenter.Crashes
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13943/default_a57ab4de31742e28d27f7c8bcac0de76978eb737.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  detection_source: FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2022-12-24 01:07:15.000000000 Z
+- name: Microsoft.Extensions.Configuration
+  description: Implementation of key-value pair based configuration for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12856/default_0f5233770e71818507f2339042e7e61bef904e70.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  detection_source: FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2023-03-24 04:54:59.000000000 Z
+- name: Microsoft.Extensions.Configuration.Abstractions
+  description: Abstractions of key-value pair based configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.Abstractions
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12885/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  detection_source: FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2023-03-24 04:54:59.000000000 Z
+- name: Microsoft.Extensions.Configuration.Json
+  description: JSON configuration provider implementation for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.Json
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12865/default_4ea11141d2970a66e9637b71cf054ab66968c217.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  detection_source: FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2023-03-24 04:54:59.000000000 Z
+- name: Microsoft.Extensions.DependencyInjection
+  description: Default implementation of dependency injection for Microsoft.Extensions.DependencyInjection
+  package_url: https://www.nuget.org/Microsoft.Extensions.DependencyInjection
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12846/default_0f5233770e71818507f2339042e7e61bef904e70.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  detection_source: FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2023-03-24 04:54:59.000000000 Z
+- name: Microsoft.Extensions.Logging.Abstractions
+  description: Logging abstractions for Microsoft.Extensions.Logging
+  package_url: https://www.nuget.org/Microsoft.Extensions.Logging.Abstractions
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12853/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.SimConnectFSX/FlightStreamDeck.SimConnectFSX.csproj
+  detection_source: FlightStreamDeck.SimConnectFSX/FlightStreamDeck.SimConnectFSX.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2022-12-24 00:54:32.000000000 Z
+- name: Serilog.Sinks.File
+  description: Write Serilog events to text files in plain or JSON format
+  package_url: https://www.nuget.org/Serilog.Sinks.File
+  version: 5.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13085/default_baa6c1c3e725b18a803052f0d13efd0ca49e5d50.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  detection_source: FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2022-12-08 08:31:17.000000000 Z
+- name: SixLabors.ImageSharp.Drawing
+  description: An extension to ImageSharp that allows the drawing of images
+  package_url: https://www.nuget.org/SixLabors.ImageSharp.Drawing
+  version: 1.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13447/default_1eef7832e807cb1f2ca919f1990fe06dfb2504f3.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.Logics/FlightStreamDeck.Logics.csproj
+  detection_source: FlightStreamDeck.Logics/FlightStreamDeck.Logics.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2022-12-12 09:58:03.000000000 Z
+- name: System.IO
+  description: Provides base input and output
+  package_url: https://www.nuget.org/System.IO
+  version: 4.3.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12901/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  detection_source: FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2020-08-12 04:53:07.000000000 Z
+- name: System.IO.FileSystem.Primitives
+  description: Provides common enumerations and exceptions for path-based I/O libraries
+  package_url: https://www.nuget.org/System.IO.FileSystem.Primitives
+  version: 4.3.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13111/default_623cfb3f5700f77ec1aadc91de41d13f3aa2ae3d.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  detection_source: FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2021-06-28 04:11:41.000000000 Z
+- name: System.Runtime.Handles
+  description: Provides base classes, including System.Runtime.InteropServices.CriticalHandle
+    and System.Runtime.InteropServices.SafeHandle, for types that represent operating
+    system handles
+  package_url: https://www.nuget.org/System.Runtime.Handles
+  version: 4.3.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13103/default_9a42ff760d96a634e61dad6d7a7d76e2d1506229.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  detection_source: FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2020-08-12 04:53:07.000000000 Z
+- name: System.Text.Encoding
+  description: Provides base abstract encoding classes for converting blocks of characters
+    to and from blocks of bytes
+  package_url: https://www.nuget.org/System.Text.Encoding
+  version: 4.3.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12933/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  detection_source: FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2020-08-12 04:53:07.000000000 Z
+- name: System.Threading.Tasks
+  description: Provides types that simplify the work of writing concurrent and asynchronous
+    code
+  package_url: https://www.nuget.org/System.Threading.Tasks
+  version: 4.3.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12899/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
+  detection_source_url: https://github.com/2lambda123/Flight-Tracker-StreamDeck/blob/main/FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  detection_source: FlightStreamDeck.AddOn/FlightStreamDeck.AddOn.csproj
+  last_updated_by: Nguyen Quy Hy
+  last_updated_on: 2020-08-12 04:53:07.000000000 Z
